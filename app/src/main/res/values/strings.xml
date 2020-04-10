@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPref</string>
+    <string name="display">Display</string>
+    <string name="add">Add</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+</resources>
